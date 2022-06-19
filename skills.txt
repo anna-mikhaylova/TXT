@@ -1,0 +1,4 @@
+skill_1 - terminal
+skill_2 - Postman
+skill_3 - testing_documentation
+skill_4 - SQL
