@@ -1,5 +1,4 @@
-fav_movie - 1+1
-fav_series - Misfits
-fav_food - chips
-fav_season - summer
-country - Canada
+Name - Anna
+Surname - Mikhaylova
+Age - 27
+Pets - 3
